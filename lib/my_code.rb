@@ -17,5 +17,11 @@ def square
 
 def reduce_total
   array = [1, 2, 3,]
-  array.reduce(0) {|sum, n| sum + n}
+  array.reduce(0) { |sum, n| sum + n }
+  
+  
+def all_true 
+  array = ["cat", "dog", "momkeys"]
+  
+    
   
