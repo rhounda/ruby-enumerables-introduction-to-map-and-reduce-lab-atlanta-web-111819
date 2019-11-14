@@ -1,1 +1,18 @@
 # My Code here....
+def negativize 
+ array = [1, 2, 3, 4]
+ array.map{|n| n * 1}
+ 
+def no_change 
+  array = [1, 2, 3, 4]
+
+def double 
+ array = [1, 2, 3, 4]
+   array.map{|n| n * 2}
+   
+def square 
+ array = [1, 2, 3, 4]
+ arrqy.map{|n| n * n}
+ 
+
+def reduce_total
