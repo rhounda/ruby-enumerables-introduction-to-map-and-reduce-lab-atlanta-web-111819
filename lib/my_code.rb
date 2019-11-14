@@ -17,5 +17,5 @@ def square
 
 def reduce_total
   array = [1, 2, 3,]
-  array.reduce(0) {|sum| 
+  array.reduce(0) {|sum, n| 
   
