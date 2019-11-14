@@ -22,6 +22,10 @@ def reduce_total
   
 def all_true 
   array = ["cat", "dog", "momkeys"]
+  array.reduce {|n| true }
   
+def any_true 
+  array = ["car", "truck", "SUV"]
+  array.reduce {|n| true }
     
   
