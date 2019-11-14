@@ -12,7 +12,10 @@ def double
    
 def square 
  array = [1, 2, 3, 4]
- arrqy.map{|n| n * n}
+ array.map{|n| n * n}
  
 
 def reduce_total
+  array = [1, 2, 3,]
+  array.reduce[0] 
+  
